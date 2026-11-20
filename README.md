@@ -69,7 +69,6 @@ Because `/system` stays completely untouched (every modification runs over `moun
 ```text
 S23Ultra-AI-Feature-Pack/
 ├── README.md                              # Overview, feature matrix & quick start
-├── SHA256SUMS.txt                         # Integrity checksums for release archive files
 ├── docs/
 │   ├── NowBrief_NowNudge.md              # Now Brief, Now Nudge & Notification Highlights guide
 │   ├── NowBarFix.md                       # AOD / Lock Screen Now Bar permission fix
