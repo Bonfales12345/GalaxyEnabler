@@ -1,6 +1,6 @@
 # GalaxyEnabler
 
-Root-powered Galaxy AI, One UI feature flag, and AICore enabler app built with Jetpack Compose.
+Root-powered Galaxy AI, One UI feature flags enabler built with Jetpack Compose.
 
 ## Requirements
 
