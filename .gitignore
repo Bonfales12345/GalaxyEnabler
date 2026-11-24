@@ -1,0 +1,10 @@
+.DS_Store
+*.iml
+.idea/
+dist/*.idsig
+android/local.properties
+android/debug.keystore
+android/.gradle/
+android/.kotlin/
+android/app/build/
+android/build/

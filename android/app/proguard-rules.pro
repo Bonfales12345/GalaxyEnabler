@@ -1,0 +1,2 @@
+-keep class com.bonfales.galaxyenabler.MainActivity { *; }
+-dontwarn kotlin.**
