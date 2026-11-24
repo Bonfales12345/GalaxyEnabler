@@ -2,6 +2,8 @@
 
 Root-powered Galaxy AI, One UI feature flags enabler built with Jetpack Compose.
 
+Spoofing features might NOT work.
+
 ## Requirements
 
 - Android 16+ (`API 36+`)
