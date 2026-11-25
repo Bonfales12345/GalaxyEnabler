@@ -2,7 +2,7 @@
 
 Root-powered Galaxy AI, One UI feature flags enabler built with Jetpack Compose.
 
-Spoofing features might NOT work.
+Some features might NOT work.
 
 ## Requirements
 
